@@ -1,0 +1,10 @@
+body{
+    font-size:x-large;
+}
+.p1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.product-item{
+    padding:20px;
+}
